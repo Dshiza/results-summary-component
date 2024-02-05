@@ -81,6 +81,7 @@ main {
     width: inherit;
     display: grid;
     place-items: center;
+    max-width: 80rem;
   
 }
 .card {
